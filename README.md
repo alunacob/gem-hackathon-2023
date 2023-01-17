@@ -1,6 +1,5 @@
 # gem-hackathon-2023
 
-# satcen-better-hackathon-2020
 
 ## Run the notebook on Binder
 
